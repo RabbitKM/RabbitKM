@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Windy Chen</h1>
-<h3 align="center">A attentive ✨ MIS engineer from Taiwan</h3>
+<h3 align="center">A attentive ✨ Database Engineer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbitkm&label=Profile%20views&color=0e75b6&style=flat" alt="rabbitkm" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 💬 Ask me about **line-bot, access**
+- 💬 Ask me about **SQL, line-bot**
 
 - 📫 How to reach me **a0506424@gmail.com**
 
