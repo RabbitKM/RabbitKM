@@ -1,21 +1,98 @@
-<h1 align="center">Hi 👋, I'm Windy Chen</h1>
-<h3 align="center">A attentive ✨ Database Engineer from Taiwan</h3>
+<h1 align="center">嗨 👋，我是 Windy Chen（陳宜君）</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbitkm&label=Profile%20views&color=0e75b6&style=flat" alt="rabbitkm" /> </p>
+<h3 align="center">資料庫工程師，正在往應用開發與資料視覺化轉型</h3>
+<h4 align="center">喜歡用 AI 工具把想法快速變成能用的東西 ✨</h4>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-
-- 💬 Ask me about **SQL, line-bot**
-
-- 📫 How to reach me **a0506424@gmail.com**
-
-- 📄 Know about my experiences [https://www.cakeresume.com/a0506424](https://www.cakeresume.com/a0506424)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rabbitkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbitkm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rabbitkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabbitkm" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rabbitkm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:a0506424@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://pda.104.com.tw/profile/share/5gt5UGVjFvg3GKzlCENrdoPjEwD8olBe"><img src="https://img.shields.io/badge/履歷-4CAF50?style=flat&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rabbitkm&color=blue&style=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🙋 關於我
+
+有 **9-10 年資料庫維運實務經驗**，熟悉異構資料庫管理（MySQL、PostgreSQL、MongoDB）與大數據平台遷移。
+
+近年對**應用開發與視覺化**越來越有興趣，開始用 AI 工具輔助開發，享受從想法到產品快速得到回饋的過程。
+
+- 🔧 擅長：資料庫維運、BigQuery / BI 平台整合、自動化流程
+- 🌱 正在學習：前端開發（HTML / CSS / JavaScript）、Chrome Extension
+- 🎯 目標方向：能寫 code 或用 AI 開發應用，尤其對視覺化相關有熱情
+- 📍 台灣宜蘭
+
+---
+
+## 🚀 解決過的問題
+
+| 成果 | 背景說明 |
+|------|---------|
+| **BigQuery 查詢流量成本降低 60%** | 遷移後單日查詢量達 2-3 TB，透過分析高流量查詢、調整分區欄位篩選，將單日查詢量從 2.5TB 降至 1TB |
+| **報表團隊每日省下 1 小時等待** | 撰寫 Bash Script 透過 Tableau Server API 自動化報表產出，取代每日人工操作 |
+| **解決 Tableau Server + BigQuery 驗證失敗問題** | 舊版 Tableau 2020 Google OAuth 每日失效，主導升版至 2024 並設置 GCP OAuth，讓報表自動更新不中斷 |
+| **請假流程全面數位化** | 將紙本流程改為線上系統，大幅提升人事作業效率 |
+
+---
+
+## 📦 作品集
+
+### 🛒 [shopee-finder](https://github.com/RabbitKM/shopee-finder) — 蝦皮同賣場搜尋 Chrome 擴充功能
+> 蝦皮搜尋結果只顯示各家商品，無法一眼看出同一賣場的其他商品。這個擴充功能解決了這個問題。
+
+- 輸入關鍵字後，自動找出蝦皮上同時販售多個指定商品的賣場
+- 使用 AI 工具輔助開發 | `JavaScript` `Chrome Extension`
+
+---
+
+### 🤖 AI Line Bot 系列（2022 緯育 AI 工程師班）
+
+**[linebot-image-recognition-sushi](https://github.com/RabbitKM/linebot-image-recognition-sushi)** — 壽司 AI 辨識機器人
+> 串接 LINE Bot + GCP + AI 影像辨識，透過故事引導使用者做壽司辨識解謎遊戲，從中蒐集用戶資料。
+`Python` `LINE Bot` `GCP` `Teachable Machine`
+
+**[linbot-image-recognition-cephalopods](https://github.com/RabbitKM/linbot-image-recognition-cephalopods)** — 頭足類 AI 辨識機器人（團體專題）
+> 使用 Transfer Learning 辨識台灣市場常見五種頭足類，並對蒐集的用戶資料做 Tableau 視覺化分析。
+`Python` `LINE Bot` `GCP` `TensorFlow` `Tableau`
+
+---
+
+### 📝 [data-engineering-notes](https://github.com/RabbitKM/data-engineering-notes) *(整理中)*
+> 工作中解決真實問題後整理的技術筆記，包含 BigQuery 整合、RDS 備份還原等。
+
+- Tableau Desktop 新增 BigQuery 連線 & 資料來源取代
+- 利用 RDS 自動備份檔還原部分 Table 資料
+
+---
+
+## 🛠 技術工具
+
+**資料庫**
+`MySQL` `PostgreSQL` `MongoDB`
+
+**雲端 & 資料平台**
+`Google BigQuery` `GCP` `Azure` `AWS RDS`
+
+**程式語言**
+`Python` `SQL` `JavaScript`（學習中）
+
+**視覺化 & BI**
+`Tableau` `Looker Studio`
+
+**其他**
+`Docker` `Git` `Flask` `LINE Bot`
+
+---
+
+## 📚 學習歷程
+
+- **2022** — 緯育 TibaMe AI 工程師班（300 小時）｜Python、機器學習、深度學習、LINE Bot、GCP
+- **2022-2025** — 訊雲科技 資料庫管理師｜BigQuery 遷移、Tableau 維運、自動化腳本
+- **2026 →** — 投入應用開發，以 AI 工具輔助快速實作個人工具
+
+---
+
+<p align="center">
+  <i>「好的系統不只是技術堆疊，更要能真正解決使用者的問題。」</i>
+</p>
