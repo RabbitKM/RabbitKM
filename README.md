@@ -58,11 +58,13 @@
 
 ---
 
-### 📝 [data-engineering-notes](https://github.com/RabbitKM/data-engineering-notes) *(整理中)*
-> 工作中解決真實問題後整理的技術筆記，包含 BigQuery 整合、RDS 備份還原等。
+### 📝 [tech-notes](https://github.com/RabbitKM/tech-notes)
+> 記錄各類軟體工具如何操作與問題解決方式。
 
-- Tableau Desktop 新增 BigQuery 連線 & 資料來源取代
-- 利用 RDS 自動備份檔還原部分 Table 資料
+| 主題 | 文章 |
+|------|------|
+| AWS | [利用 RDS 自動備份檔還原部分 Table 資料](https://github.com/RabbitKM/tech-notes/blob/master/aws/aws-rds-table-restore-from-backup.md) |
+| Tableau | [Tableau Desktop 新增 BigQuery 連線 & 資料來源取代](https://github.com/RabbitKM/tech-notes/blob/master/tableau/tableau-desktop-bigquery-connection.md) |
 
 ---
 
