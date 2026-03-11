@@ -15,7 +15,6 @@
 
 - 🌱 正在學習：前端開發（HTML / CSS / JavaScript）、Chrome Extension
 - 🎯 目標方向：能寫 code 或用 AI 開發應用，尤其對視覺化相關有熱情
-- 📍 台灣宜蘭
 
 ---
 
@@ -40,7 +39,7 @@
 
 ---
 
-### 🤖 AI Line Bot 系列（2022 緯育 AI 工程師班）
+### 🤖 AI Line Bot 系列（緯育 AI 工程師班）
 
 **[linebot-image-recognition-sushi](https://github.com/RabbitKM/linebot-image-recognition-sushi)** — 壽司 AI 辨識機器人
 > 串接 LINE Bot + GCP + AI 影像辨識，透過故事引導使用者做壽司辨識解謎遊戲，從中蒐集用戶資料。
@@ -49,16 +48,6 @@
 **[linbot-image-recognition-cephalopods](https://github.com/RabbitKM/linbot-image-recognition-cephalopods)** — 頭足類 AI 辨識機器人（團體專題）
 > 使用 Transfer Learning 辨識台灣市場常見五種頭足類，並對蒐集的用戶資料做 Tableau 視覺化分析。
 `Python` `LINE Bot` `GCP` `TensorFlow` `Tableau`
-
----
-
-### 📝 [tech-notes](https://github.com/RabbitKM/tech-notes)
-> 記錄各類軟體工具如何操作與問題解決方式。
-
-| 主題 | 文章 |
-|------|------|
-| AWS | [利用 RDS 自動備份檔還原部分 Table 資料](https://github.com/RabbitKM/tech-notes/blob/master/aws/aws-rds-table-restore-from-backup.md) |
-| Tableau | [Tableau Desktop 新增 BigQuery 連線 & 資料來源取代](https://github.com/RabbitKM/tech-notes/blob/master/tableau/tableau-desktop-bigquery-connection.md) |
 
 ---
 
@@ -78,6 +67,17 @@
 
 **其他**
 `Docker` `Git` `Flask` `LINE Bot`
+
+---
+
+## 📝 技術筆記
+
+[tech-notes](https://github.com/RabbitKM/tech-notes) — 記錄各類軟體工具如何操作與問題解決過程
+
+| 主題 | 文章 |
+|------|------|
+| AWS | [利用 RDS 自動備份檔還原部分 Table 資料](https://github.com/RabbitKM/tech-notes/blob/master/aws/aws-rds-table-restore-from-backup.md) |
+| Tableau | [Tableau Desktop 新增 BigQuery 連線 & 資料來源取代](https://github.com/RabbitKM/tech-notes/blob/master/tableau/tableau-desktop-bigquery-connection.md) |
 
 ---
 
