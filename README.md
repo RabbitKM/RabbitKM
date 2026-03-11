@@ -1,24 +1,18 @@
-<h1 align="center">嗨 👋，我是 Windy Chen（陳宜君）</h1>
+<h1 align="center">Hi 👋, I'm Windy Chen</h1>
 
 <h3 align="center">資料庫工程師，正在往應用開發與資料視覺化轉型</h3>
 <h4 align="center">喜歡用 AI 工具把想法快速變成能用的東西 ✨</h4>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rabbitkm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:a0506424@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://pda.104.com.tw/profile/share/5gt5UGVjFvg3GKzlCENrdoPjEwD8olBe"><img src="https://img.shields.io/badge/履歷-4CAF50?style=flat&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rabbitkm&color=blue&style=flat"/>
-</p>
 
 ---
 
 ## 🙋 關於我
 
-有 **9-10 年資料庫維運實務經驗**，熟悉異構資料庫管理（MySQL、PostgreSQL、MongoDB）與大數據平台遷移。
+**6 年製造業資訊工程師**：以 Access 改善進銷存、會計等系統，負責表單與報表設計；並協助系統遷移至雲端資料庫工具（Ragic），熟悉製造業完整作業流程
 
-近年對**應用開發與視覺化**越來越有興趣，開始用 AI 工具輔助開發，享受從想法到產品快速得到回饋的過程。
+**3 年資料庫管理師**：維護 MySQL、PostgreSQL、MongoDB，協助 BigQuery 遷移專案的跨部門溝通，並負責 Tableau Server 維運與自動化腳本開發
 
-- 🔧 擅長：資料庫維運、BigQuery / BI 平台整合、自動化流程
+💡 近年對**應用開發與視覺化**越來越有興趣，開始用 AI 工具輔助開發，享受從想法到產品快速得到回饋的過程
+
 - 🌱 正在學習：前端開發（HTML / CSS / JavaScript）、Chrome Extension
 - 🎯 目標方向：能寫 code 或用 AI 開發應用，尤其對視覺化相關有熱情
 - 📍 台灣宜蘭
