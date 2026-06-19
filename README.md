@@ -1,94 +1,92 @@
-<h1 align="center">Hi 👋, I'm Windy Chen</h1>
+# Hi 👋, I'm Windy Chen
 
-<h3 align="center">資料庫工程師，正在往應用開發與資料視覺化轉型</h3>
-<h4 align="center">喜歡用 AI 工具把想法快速變成能用的東西 ✨</h4>
+### Database Administrator
 
----
-
-## 🙋 關於我
-
-**6 年製造業資訊工程師**：以 Access 改善進銷存、會計等系統，負責表單與報表設計；並協助系統遷移至雲端資料庫工具（Ragic），熟悉製造業完整作業流程
-
-**3 年資料庫管理師**：維護 MySQL、PostgreSQL、MongoDB，協助 BigQuery 遷移專案的跨部門溝通，並負責 Tableau Server 維運與自動化腳本開發
-
-💡 近年對**應用開發與視覺化**越來越有興趣，開始用 AI 工具輔助開發，享受從想法到產品快速得到回饋的過程
-
-- 🌱 正在學習：前端開發（HTML / CSS / JavaScript）、Chrome Extension
-- 🎯 目標方向：能寫 code 或用 AI 開發應用，尤其對視覺化相關有熱情
+Experienced in database operations, cloud data platforms, and BI tooling.  
+I enjoy turning messy data problems into clean, automated, and measurable solutions.
 
 ---
 
-## 🚀 解決過的問題
+## 🙋 About Me
 
-| 成果 | 背景說明 |
-|------|---------|
-| **BigQuery 查詢流量成本降低 60%** | 遷移後單日查詢量達 2-3 TB，透過分析高流量查詢、調整分區欄位篩選，將單日查詢量從 2.5TB 降至 1TB |
-| **報表團隊每日省下 1 小時等待** | 撰寫 Bash Script 透過 Tableau Server API 自動化報表產出，取代每日人工操作 |
-| **解決 Tableau Server + BigQuery 驗證失敗問題** | 舊版 Tableau 2020 Google OAuth 每日失效，主導升版至 2024 並設置 GCP OAuth，讓報表自動更新不中斷 |
-| **請假流程全面數位化** | 將紙本流程改為線上系統，大幅提升人事作業效率 |
+**6 years as an IT Engineer in manufacturing** — built and maintained inventory, order management, and accounting systems using Access and Ragic; handled form design, report development, and process digitization across full manufacturing workflows.
+
+**3 years as a Database Administrator** — maintained MySQL, PostgreSQL, and MongoDB in production; participated in a Hadoop-to-BigQuery migration covering requirements gathering and data verification; managed Tableau Server operations and developed automation scripts.
 
 ---
 
-## 📦 作品集
+## 🚀 Key Achievements
 
-### 🛒 [shopee-finder](https://github.com/RabbitKM/shopee-finder) — 蝦皮同賣場搜尋 Chrome 擴充功能
-> 蝦皮向多個賣場分開下單，每筆都有運費。這個工具幫你找出同時販售所有指定商品的賣場，集中下單達到免運門檻。
-
-- 輸入多個關鍵字，自動找出蝦皮上同時販售所有指定商品的賣場
-- 使用 AI 工具輔助開發 | `JavaScript` `Chrome Extension`
+| Result | Context |
+|--------|---------|
+| **~60% reduction in BigQuery query costs** | Post-migration daily query volume hit 2–3 TB; analyzed high-cost queries and applied `PARTITIONTIME` filtering to bring daily volume from ~2.5 TB down to ~1 TB |
+| **Saved 1+ hour/day for the reporting team** | Rewrote a non-functional legacy Bash script using the Tableau Server API to fully automate daily report generation |
+| **Resolved Tableau Server + BigQuery auth failures** | Legacy Tableau 2020 Google OAuth expired daily; led upgrade to Tableau 2024 and configured GCP OAuth — reports now refresh automatically without interruption |
+| **Production data recovery via AWS RDS** | Used point-in-time restore to recover data from an automated backup after accidental data loss |
+| **Digitized leave approval workflow** | Replaced paper-based HR process with an online system, significantly improving operational efficiency |
 
 ---
 
-### 🤖 AI Line Bot 系列（緯育 AI 工程師班）
+## 📦 Projects
 
-**[linebot-image-recognition-sushi](https://github.com/RabbitKM/linebot-image-recognition-sushi)** — 壽司 AI 辨識機器人
-> 串接 LINE Bot + GCP + AI 影像辨識，透過故事引導使用者做壽司辨識解謎遊戲，從中蒐集用戶資料。
+### 🛒 [shopee-finder](https://github.com/RabbitKM/shopee-finder) — Shopee Multi-item Store Finder (Chrome Extension)
+
+> Shopee charges shipping per store. This tool finds stores that sell *all* of your target items at once, so you can consolidate orders and hit the free-shipping threshold.
+
+- Input multiple keywords → automatically finds Shopee stores carrying all of them
+- Built with AI-assisted development | `JavaScript` `Chrome Extension`
+
+---
+
+### 🤖 AI LINE Bot Series
+
+**[linebot-image-recognition-sushi](https://github.com/RabbitKM/linebot-image-recognition-sushi)** — Sushi Recognition Game Bot
+
+> A LINE Bot that guides users through a story-based sushi identification puzzle using AI image recognition, while collecting user interaction data.
 `Python` `LINE Bot` `GCP` `Teachable Machine`
 
-**[linbot-image-recognition-cephalopods](https://github.com/RabbitKM/linbot-image-recognition-cephalopods)** — 頭足類 AI 辨識機器人（團體專題）
-> 使用 Transfer Learning 辨識台灣市場常見五種頭足類，並對蒐集的用戶資料做 Tableau 視覺化分析。
+**[linbot-image-recognition-cephalopods](https://github.com/RabbitKM/linbot-image-recognition-cephalopods)** — Cephalopod Recognition Bot (Team Project)
+
+> Uses transfer learning to identify 5 common cephalopod species found in Taiwanese markets; collected user data visualized with Tableau.
 `Python` `LINE Bot` `GCP` `TensorFlow` `Tableau`
 
 ---
 
-## 🛠 技術工具
+## 🛠 Tech Stack
 
-**資料庫**
-`MySQL` `PostgreSQL` `MongoDB`
+**Databases** `MySQL` `PostgreSQL` `MongoDB` `Microsoft Access`
 
-**雲端 & 資料平台**
-`Google BigQuery` `GCP` `Azure` `AWS RDS`
+**Cloud & Platform** `Google BigQuery` `GCP` `AWS RDS`
 
-**程式語言**
-`Python` `SQL` `JavaScript`（學習中）
+**BI & Visualization** `Tableau Server` `Looker Studio`
 
-**視覺化 & BI**
-`Tableau` `Looker Studio`
+**Monitoring** `Zabbix` `Grafana`
 
-**其他**
-`Docker` `Git` `Flask` `LINE Bot`
+**Scripting & Automation** `Bash Script` `Python` `Linux`
 
----
+**Other** `Git` `LINE Bot API`
 
-## 📝 技術筆記
-
-[tech-notes](https://github.com/RabbitKM/tech-notes) — 記錄各類軟體工具如何操作與問題解決過程
-
-| 主題 | 文章 |
-|------|------|
-| AWS | [利用 RDS 自動備份檔還原部分 Table 資料](https://github.com/RabbitKM/tech-notes/blob/master/aws/aws-rds-table-restore-from-backup.md) |
-| Tableau | [Tableau Desktop 新增 BigQuery 連線 & 資料來源取代](https://github.com/RabbitKM/tech-notes/blob/master/tableau/tableau-desktop-bigquery-connection.md) |
+**AI & Emerging Tools** `Gemini API` `Claude Code`
 
 ---
 
-## 📚 學習歷程
+## 📝 Tech Notes
 
-- **2022** — 緯育 TibaMe AI 工程師班（300 小時）｜Python、機器學習、深度學習、LINE Bot、GCP
-- **2022-2025** — 訊雲科技 資料庫管理師｜BigQuery 遷移、Tableau 維運、自動化腳本
-- **2026 →** — 投入應用開發，以 AI 工具輔助快速實作個人工具
+[tech-notes](https://github.com/RabbitKM/tech-notes) — Notes on tools, troubleshooting, and real-world problem solving
+
+| Topic | Article |
+|-------|---------|
+| AWS | [Restoring specific table data from RDS automated backup](https://github.com/RabbitKM/tech-notes/blob/master/aws/aws-rds-table-restore-from-backup.md) |
+| Tableau | [Connecting Tableau Desktop to BigQuery & replacing data source](https://github.com/RabbitKM/tech-notes/blob/master/tableau/tableau-desktop-bigquery-connection.md) |
 
 ---
 
-<p align="center">
-  <i>「好的系統不只是技術堆疊，更要能真正解決使用者的問題。」</i>
-</p>
+## 📚 Background
+
+- **2022** — TibaMe AI Engineer Program (300 hrs) | Python, ML, Deep Learning, LINE Bot, GCP
+- **2022–2025** — Database Administrator at Msgcloud Technology | BigQuery migration, Tableau Server operations, automation scripting
+- **2026 →** — Actively exploring data engineering and application development with AI-assisted tooling
+
+---
+
+*"Good systems don't just run — they make the next problem easier to solve."*
