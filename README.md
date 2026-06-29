@@ -29,25 +29,32 @@ I enjoy turning messy data problems into clean, automated, and measurable soluti
 
 ## 📦 Projects
 
+### 🎬 [cinema-showtime-pipeline](https://github.com/RabbitKM/cinema-showtime-pipeline) — Taiwan Cinema Special Hall ETL Platform
+
+> Scrapes 3 major Taiwan cinema chains daily, normalizes heterogeneous showtime data into BigQuery, and serves results through two Cloud Run interfaces — an AI natural-language query UI and a spreadsheet-style filter browser.
+
+**Live Demo:**
+- 🤖 [AI Query Platform](https://cinema-api-798473841655.asia-east1.run.app)
+- 📊 [Browse Platform](https://cinema-browse-798473841655.asia-east1.run.app)
+
+`Python` `ETL` `BigQuery` `Cloud Run` `Gemini API` `GCP`
+
+---
+
 ### 🛒 [shopee-finder](https://github.com/RabbitKM/shopee-finder) — Shopee Multi-item Store Finder (Chrome Extension)
 
-> Shopee charges shipping per store. This tool finds stores that sell *all* of your target items at once, so you can consolidate orders and hit the free-shipping threshold.
+> Finds stores that sell *all* of your target items at once, so you can consolidate orders and hit the free-shipping threshold.
 
-- Input multiple keywords → automatically finds Shopee stores carrying all of them
-- Built with AI-assisted development | `JavaScript` `Chrome Extension`
+`JavaScript` `Chrome Extension`
 
 ---
 
 ### 🤖 AI LINE Bot Series
 
 **[linebot-image-recognition-sushi](https://github.com/RabbitKM/linebot-image-recognition-sushi)** — Sushi Recognition Game Bot
-
-> A LINE Bot that guides users through a story-based sushi identification puzzle using AI image recognition, while collecting user interaction data.
 `Python` `LINE Bot` `GCP` `Teachable Machine`
 
 **[linbot-image-recognition-cephalopods](https://github.com/RabbitKM/linbot-image-recognition-cephalopods)** — Cephalopod Recognition Bot (Team Project)
-
-> Uses transfer learning to identify 5 common cephalopod species found in Taiwanese markets; collected user data visualized with Tableau.
 `Python` `LINE Bot` `GCP` `TensorFlow` `Tableau`
 
 ---
@@ -62,7 +69,7 @@ I enjoy turning messy data problems into clean, automated, and measurable soluti
 
 **Monitoring** `Zabbix` `Grafana`
 
-**Scripting & Automation** `Bash Script` `Python` `Linux`
+**Scripting & Automation** `Bash Script` `Python` `Linux` `ETL`
 
 **Other** `Git` `LINE Bot API`
 
