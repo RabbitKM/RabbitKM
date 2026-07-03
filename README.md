@@ -29,7 +29,7 @@ I enjoy turning messy data problems into clean, automated, and measurable soluti
 
 ## 📦 Projects
 
-### 🎬 [cinema-showtime-pipeline](https://github.com/RabbitKM/cinema-showtime-pipeline) — Taiwan Cinema Showtime Query Platform (ETL + AI-powered)
+### 🎬 [cinema-showtime-pipeline](https://github.com/RabbitKM/cinema-showtime-pipeline) — Taiwan Cinema Showtime Query Platform
 
 > A query platform for Taiwan cinema special-hall showtimes: scrapes 3 major chains daily, normalizes the data into BigQuery, and serves it through two interfaces — an AI natural-language query UI and a spreadsheet-style filter browser.
 
