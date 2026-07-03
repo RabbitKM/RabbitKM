@@ -29,9 +29,9 @@ I enjoy turning messy data problems into clean, automated, and measurable soluti
 
 ## 📦 Projects
 
-### 🎬 [cinema-showtime-pipeline](https://github.com/RabbitKM/cinema-showtime-pipeline) — Taiwan Cinema Special Hall ETL Platform
+### 🎬 [cinema-showtime-pipeline](https://github.com/RabbitKM/cinema-showtime-pipeline) — Taiwan Cinema Showtime Query Platform (ETL + AI-powered)
 
-> Scrapes 3 major Taiwan cinema chains daily, normalizes heterogeneous showtime data into BigQuery, and serves results through two Cloud Run interfaces — an AI natural-language query UI and a spreadsheet-style filter browser.
+> A query platform for Taiwan cinema special-hall showtimes: scrapes 3 major chains daily, normalizes the data into BigQuery, and serves it through two interfaces — an AI natural-language query UI and a spreadsheet-style filter browser.
 
 **Live Demo:**
 - 🤖 [AI Query Platform](https://cinema-api-798473841655.asia-east1.run.app)
